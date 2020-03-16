@@ -16,3 +16,5 @@ ionic cordova emaulate ios
 
 to run on browser 
 ionic serve
+
+et ANDROID_SDK_ROOT=C:\Users\cs168e\AppData\Local\Android\Sdk\
